@@ -274,10 +274,11 @@ p{
     margin: auto;
     padding-top:30px;
 }
-.footer_con> .row> .col-4> p{
-    padding-left: 15px;
+.footer_con > .row > .footer_con_2 > p{
+    padding: 3px 7px;
+    margin: auto;
 }
-/* .footer_con> .row> .con-3 {
+/* .footer_con > .row> .con-3 {
     text-align: center;
 } */
 /* footer part end */
