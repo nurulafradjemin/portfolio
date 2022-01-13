@@ -52,7 +52,7 @@ p{
 /* Navbar end */
 
 .slider_part{
-    background: url(../img/slider_img.jpg);
+    background: url(slider_img.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 620px;
