@@ -275,12 +275,12 @@ p{
     padding-top:30px;
 }
 .footer_con > .row > .footer_con_2 > p{
-    padding: 3px 7px;
-    margin: auto;
+    padding: 0 0 0 7px;
 }
-/* .footer_con > .row> .con-3 {
+.footer_con > .row> .footer_con_2 {
     text-align: center;
-} */
+    padding : 7px 0;
+}
 /* footer part end */
 
 
