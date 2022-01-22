@@ -1,4 +1,5 @@
-$('.responsive_gallery').slick({
+$(document).ready(function(){
+	$('.responsive_gallery').slick({
   dots: true,
   infinite: false,
   speed: 300,
@@ -32,4 +33,7 @@ $('.responsive_gallery').slick({
     // settings: "unslick"
     // instead of a settings object
   ]
+ });
+  
+  
 });
