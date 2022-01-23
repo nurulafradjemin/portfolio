@@ -167,7 +167,7 @@ p{
     opacity: 0 ;
     transition: ease-in .3s;
 }
-.port_overlay > i {
+.port_overlay > a > i {
     height:40px;
     width: 40px;
     background-color: var(--secondary_color);
