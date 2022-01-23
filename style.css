@@ -239,6 +239,7 @@ p{
 
 /* footer part start */
 .footer_part{
+    margin-top: 20px;
     padding: 60px 0;
     background: #353535;
     color: #fff;
